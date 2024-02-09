@@ -2,6 +2,11 @@
 
 This repository contains a simple maze game implemented in JavaScript. Players navigate through a maze from the start point to the end point using arrow keys or swipe gestures. The game includes features such as customizable difficulty levels, a victory message display, and the ability to load custom sprites for the player and end point.
 
+
+![Screenshot 2024-02-09 173609](https://github.com/ZAINKHAN25/Maze-Game/assets/121414309/3e89e5a8-e00c-470a-88b1-3966bee7620a)
+
+
+
 ## Getting Started
 
 To get started with the maze game, follow these steps:
